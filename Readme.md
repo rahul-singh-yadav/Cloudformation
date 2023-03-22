@@ -1,4 +1,6 @@
 ### Purpose
 ---
-1. Provisioning Policy-As-Code (PaC)
-2. Provisioning Pipeline-As-Code (PaP)
+For provisioning:
+
+1. Policy-As-Code (PaC)
+2. Pipeline-As-Code (PaP)
